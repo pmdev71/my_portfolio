@@ -89,6 +89,12 @@ button:focus {
   font-size: 1.2rem !important;
 }
 
+.navbar-brand {
+  font-size: 1.6rem !important;
+  font-weight: bold !important;
+  
+}
+
 .navbar-toggler {
   position: relative !important;
   background-color: transparent !important;
