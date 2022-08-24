@@ -71,7 +71,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/pmpalashmandal"
+                  href="https://github.com/pmdev71"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -81,7 +81,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/pmpalashmandal"
+                  href="https://twitter.com/pmdev71"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -91,7 +91,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/palash-mandal-cse/"
+                  href="https://www.linkedin.com/in/pm-dev71/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -101,7 +101,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/pmpalashmandal/"
+                  href="https://www.instagram.com/pmdev71/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
